@@ -1,0 +1,8 @@
+{
+  "MetaNFTAuctionProxyModule#MetaNFTAuction": "0x36586623897B14E1beF5c0E2f30Fe32ab07F4539",
+  "MetaNFTAuctionUpgradeModule#MetaNFTAuctionV2": "0xED7b57A434f06BEAA66e17d76449fc25C207629F",
+  "MetaNFTAuctionProxyModule#TransparentUpgradeableProxy": "0x1c30B2a699B64BEf63f831828E2f1Abb8c4AFb6C",
+  "MetaNFTAuctionProxyModule#ProxyAdmin": "0x0235d70325f9AE2889Ced82e60E8AD55da6D4D1F",
+  "MetaNFTAuctionModule#MetaNFTAuction": "0x1c30B2a699B64BEf63f831828E2f1Abb8c4AFb6C",
+  "MetaNFTAuctionUpgradeModule#MetaNFTAuctionV2AtProxy": "0x1c30B2a699B64BEf63f831828E2f1Abb8c4AFb6C"
+}
